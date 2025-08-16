@@ -1,0 +1,16 @@
+[package]
+name = "meme_coin_generator"
+version = "1.0.0"
+authors = ["Your Name <your.email@example.com>"]
+license = "MIT"
+
+[addresses]
+meme_coin_generator = "_"
+std = "0x1"
+aptos_framework = "0x1"
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "main" }
+
+[dev-dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "main" } 
