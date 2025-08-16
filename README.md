@@ -13,6 +13,15 @@ A complete DeFi application that generates meme coins on the Aptos blockchain wi
 - **⚡ Fast & Scalable**: Leverages Aptos blockchain performance
 - **🔗 Wallet Integration**: Connect with Aptos wallets
 
+## Contract
+
+- **Contract Address: 0x7f5b3e16e8e3cea1f9c712abfcd321a0f5678146762054b5cb29961dc187d284
+- **Transaction Hash: 0xf79fb93cffa79d9f89debbce59671610f215d1779912ac1316c6a57adf20e49b
+- **Network: Devnet
+- **Gas Used: 4,132 Octas
+- **Status: ✅ Successfully executed
+- **Transaction submitted: https://explorer.aptoslabs.com/txn/0xf79fb93cffa79d9f89debbce59671610f215d1779912ac1316c6a57adf20e49b?network=devnet
+
 ## 🏗️ Architecture
 
 - **Backend**: Move smart contracts on Aptos blockchain
