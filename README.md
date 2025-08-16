@@ -2,7 +2,7 @@
 
 A complete DeFi application that generates meme coins on the Aptos blockchain with automated tokenomics, smart contract deployment, and a modern web interface.
 
-<img width="3024" height="1646" alt="Image" src="https://github.com/user-attachments/assets/4e6e3f86-8835-43d4-ad9f-26c85c56f0a2" />
+<img width="3024" height="1646" alt="Image" src="https://github.com/user-attachments/assets/421db3b1-abca-4fe4-b040-04cf0c6cab49" />
 
 ## ✨ Features
 
