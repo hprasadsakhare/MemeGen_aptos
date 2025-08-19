@@ -153,7 +153,6 @@ MIT License - see LICENSE file for details
 ## 🆘 Support
 
 - Create an issue for bugs
-- Join our Discord community
 
 
 ---
