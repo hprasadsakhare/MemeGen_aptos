@@ -154,7 +154,7 @@ MIT License - see LICENSE file for details
 
 - Create an issue for bugs
 - Join our Discord community
-- Check the documentation
+
 
 ---
 
